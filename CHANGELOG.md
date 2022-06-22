@@ -1,3 +1,10 @@
+## 2.2.0 (June 22, 2022)
+
+# feat
+- React v18 support
+- react-resize-detector upgraded to v7.1.2
+- prop-types package added to dependencies
+
 ## 2.1.10 (May 19, 2022)
 
 # feat
